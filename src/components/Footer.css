@@ -1,0 +1,29 @@
+.footer{
+  width: 100%;
+  height: 64px;
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.icons{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.footer-icon{
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background: #918E9B;
+  color: #161619;
+}

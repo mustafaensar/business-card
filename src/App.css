@@ -1,0 +1,21 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+  background-color: #23252C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1A1B21;
+  width: 317px;
+  margin-top: 5%;
+  font-family: 'Inter';
+  border-radius: 0px 0px 10px 10px;
+}

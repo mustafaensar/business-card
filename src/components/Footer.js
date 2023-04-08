@@ -10,13 +10,13 @@ function Footer(){
   return(
     <div className="footer">
       <div className="icons">
-        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/lawyermstf">
+        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/musenscek">
         <FontAwesomeIcon icon={faTwitter} className="footer-icon"></FontAwesomeIcon>
         </a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/musenscek">
         <FontAwesomeIcon icon={faFacebook} className="footer-icon"></FontAwesomeIcon>
         </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/lawyermstf/">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/musenscek/">
         <FontAwesomeIcon icon={faInstagram} className="footer-icon"></FontAwesomeIcon>
         </a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/mustafaensar">

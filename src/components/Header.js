@@ -7,7 +7,7 @@ function Header(){
   return(
     <div className="header">
       <h2>Mustafa Ensar Cekic</h2>
-      <h4>Blockchain Developer</h4>
+      <h4>Frontend Developer</h4>
       <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mustafaensarcekic/">
       <button><FontAwesomeIcon icon={faLinkedin} className="button-icon"></FontAwesomeIcon> LinkedIn</button>  
       </a>
